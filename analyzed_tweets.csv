@@ -1,0 +1,11 @@
+Tweet,CleanedTweet,Sentiment
+"I love the new iPhone, it's amazing!",I love the new iPhone its amazing,Positive
+The weather is terrible today.,The weather is terrible today,Negative
+I'm feeling okay about the exam.,Im feeling okay about the exam,Positive
+Worst movie I’ve seen this year.,Worst movie Ive seen this year,Negative
+Had a great time at the concert!,Had a great time at the concert,Positive
+Nothing special about this day.,Nothing special about this day,Positive
+Why is traffic always so bad?,Why is traffic always so bad,Negative
+Looking forward to the weekend!,Looking forward to the weekend,Neutral
+The food at that restaurant was awful.,The food at that restaurant was awful,Negative
+Just finished a wonderful book!,Just finished a wonderful book,Positive
